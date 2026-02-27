@@ -1,0 +1,13 @@
+TEST RESULTS (TTA)
+Mean IoU: 0.3191
+
+  Background          : 0.0000
+  Trees               : 0.4364
+  Lush Bushes         : 0.0004
+  Dry Grass           : 0.4685
+  Dry Bushes          : 0.3613
+  Ground Clutter      : 0.0000
+  Logs                : 0.0000
+  Rocks               : 0.0469
+  Landscape           : 0.6410
+  Sky                 : 0.9814
